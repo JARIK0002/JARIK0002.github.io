@@ -109,16 +109,4 @@ background-image: url("https://raw.githubusercontent.com/reu-itc/itc_course/mast
 
 
 }
-.ssilka {
-border:1px solid #ccc; // рамка
-background:#eaeaea; //фон
-padding: .2em .75em; //отступы внутри
-text-decoration: none; //убрать подчеркивание ссылки
-}
-.black {
-  color: #000;
-}
 
-.white {
-  color: #fff;
-}
